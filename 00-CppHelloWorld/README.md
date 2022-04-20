@@ -1,7 +1,7 @@
 Versión del compilador G++
 
-g++ (MinGW.org GCC-6.3.0-1) 6.3.0
-Copyright (C) 2016 Free Software Foundation, Inc.
+g++ (Rev10, Built by MSYS2 project) 11.2.0
+Copyright (C) 2021 Free Software Foundation, Inc.
 This is free software; see the source for copying conditions.  There is NO
 warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
