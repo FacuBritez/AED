@@ -20,11 +20,11 @@ El código fuente debe ser previamente compilado para luego poder ser ejecutado 
 Primero se debe correr el comando de compilación:
 
 ```
-# g++ --std=c++20 TiposDeDatos.cpp -o TiposDeDatos.exe
+g++ --std=c++20 TiposDeDatos.cpp -o TiposDeDatos.exe
 ```
 
 Luego con el ejecutable ya compilado, correrlo para validar todas las afirmaciones (asserts)
 
 ```
-# .\TiposDeDatos.exe
+.\TiposDeDatos.exe
 ```
